@@ -89,6 +89,7 @@ public class Patterns {
         System.out.println("Combining Pattern #7 & #8");
 
         // Pattern 10
+        System.out.println("Pattern #10:");
         pat = "*";
         for (int i=1; i<=5; i++) {
             System.out.println(pat);
@@ -99,6 +100,7 @@ public class Patterns {
         }
 
         // Pattern 11
+        System.out.println("Pattern #11:");
         pat = "10101";
         for (int i=pat.length()-1; i>=0; i--) {
             System.out.println(pat.substring(i));
