@@ -1,4 +1,4 @@
-package STRIVER.DAY0_Misc;
+package STRIVER.D0_Misc;
 
 // Given an integer x, return true if x is palindrome integer.
 //An integer is a palindrome when it reads the same backward as forward.

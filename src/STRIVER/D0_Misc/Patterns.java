@@ -1,4 +1,4 @@
-package STRIVER.DAY0_Misc;
+package STRIVER.D0_Misc;
 
 // Solving pattern problems:
 // https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/

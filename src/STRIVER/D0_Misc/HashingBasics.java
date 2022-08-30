@@ -1,4 +1,4 @@
-package STRIVER.DAY0_Misc;
+package STRIVER.D0_Misc;
 
 // Q1: Counting frequencies of array elements
 // https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0

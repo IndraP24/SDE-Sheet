@@ -1,4 +1,4 @@
-package STRIVER.DAY0_Misc;
+package STRIVER.D0_Misc;
 
 // Q1: Print 1 to N numbers without the help of loops
 // https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1

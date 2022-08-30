@@ -1,4 +1,4 @@
-package STRIVER.DAY0_Misc;
+package STRIVER.D0_Misc;
 
 import java.util.ArrayList;
 import java.util.Arrays;
