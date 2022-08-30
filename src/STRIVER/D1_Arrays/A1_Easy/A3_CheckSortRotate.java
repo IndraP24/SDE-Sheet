@@ -1,4 +1,7 @@
-package STRIVER.DAY1_Arrays_I;
+package STRIVER.D1_Arrays.A1_Easy;
+
+// Check if the array is sorted and rotated
+// https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 
 public class A3_CheckSortRotate {
     public static void main(String[] args) {

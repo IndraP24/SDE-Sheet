@@ -1,4 +1,7 @@
-package STRIVER.DAY1_Arrays_I;
+package STRIVER.D1_Arrays.A1_Easy;
+
+// Second-Largest Element in an Array without sorting
+// https://practice.geeksforgeeks.org/problems/second-largest3735/1
 
 public class A2_Max2Element {
     public static void main(String[] args) {

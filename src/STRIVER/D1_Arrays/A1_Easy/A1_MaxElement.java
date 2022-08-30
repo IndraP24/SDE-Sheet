@@ -1,4 +1,7 @@
-package STRIVER.DAY1_Arrays_I;
+package STRIVER.D1_Arrays.A1_Easy;
+
+// Largest Element in array
+// https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/0
 
 import java.util.Arrays;
 

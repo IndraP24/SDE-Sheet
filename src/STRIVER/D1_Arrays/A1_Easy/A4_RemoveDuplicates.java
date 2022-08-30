@@ -1,6 +1,9 @@
-package STRIVER.DAY1_Arrays_I;
+package STRIVER.D1_Arrays.A1_Easy;
 
 import java.util.HashSet;
+
+// Remove duplicates from Sorted array
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 public class A4_RemoveDuplicates {
     public static void main(String[] args) {
