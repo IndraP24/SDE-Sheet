@@ -1,5 +1,9 @@
 package STRIVER.D1_Arrays.A1_Easy;
 
+// Given an integer array nums, move all 0's to the end of it
+// while maintaining the relative order of the non-zero elements.
+// https://leetcode.com/problems/move-zeroes/
+
 import java.util.Arrays;
 
 public class A6_MoveZeroes {
