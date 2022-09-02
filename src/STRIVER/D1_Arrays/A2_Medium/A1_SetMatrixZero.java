@@ -1,4 +1,4 @@
-package STRIVER.DAY1_Arrays_I;
+package STRIVER.D1_Arrays.A2_Medium;
 
 public class A1_SetMatrixZero {
     public static void main(String[] args) {
